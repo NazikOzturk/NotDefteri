@@ -12,6 +12,14 @@
 
 - 👌 Responsive ve kullanıcı dostu arayüz
 
+- # Kullanılan Teknolojiler
+
+- HTML
+
+- CSS
+
+- Javascript
+
 # Ekran Görüntüsü
 
 ![](ekran.gif)
